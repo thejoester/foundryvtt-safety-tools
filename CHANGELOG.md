@@ -1,3 +1,7 @@
+### 14.0.0 (BETA)
+
+- Just updated manifest
+
 ### 13.0.0
 
 - Update for fvtt 13 t y to @Dewniel41 and the PR https://github.com/p4535992/foundryvtt-safety-tools/pull/9
